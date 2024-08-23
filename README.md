@@ -6,10 +6,8 @@ Proyecto final de la primera etapa de Principante en Programación G7-ONE
 
 _Solo sigue este link_
 
-```
-Da un ejemplo
-```
 
+[Github Pages del reto de edgar](https://edgarciaguilar.github.io/alura/)
 
 ## Construido con 🛠️
 
